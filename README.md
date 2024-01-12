@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This [REPOSITORY](https://github.com/mateusadada/HTML5-CursoEmVideo) is in development.
+
 # HTML5-CursoEmVideo
 Exercises course HTML5 [40 Hours] Curso em Vídeo
 
