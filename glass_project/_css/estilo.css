@@ -21,13 +21,32 @@ p {
 
 header#heading img#icon {
     position: absolute;
-    left: 745px;
-    top: 60px;
+    left: 740px;
+    top: 80px;
 }
 
-/* header#heading {
+header#heading {
+    border-bottom: 1px solid #606060;
+    height: 150px;
+    background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 85px;
+}
 
-} */
+header#heading h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30pt;
+    color: #606060;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+    padding: 0px;
+    margin-bottom: 0px;
+}
+
+header#heading h2 {
+    font-family: Arial, sans-serif;
+    font-size: 15pt;
+    color: #888888;
+    padding: 0px;
+    margin-top: 10px;
+}
 
 /* Formatação de imagens com legenda */
 
