@@ -1,4 +1,9 @@
 @charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web);
+@font-face {
+    font-family: 'FonteLogo';
+    src: url("../_fonts/bubblegum-sans-regular.otf");
+}
 
 body {
     background-color: #dddddd;
@@ -32,7 +37,7 @@ header#heading {
 }
 
 header#heading h1 {
-    font-family: Arial, sans-serif;
+    font-family: 'FonteLogo', sans-serif;
     font-size: 30pt;
     color: #606060;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
@@ -41,11 +46,11 @@ header#heading h1 {
 }
 
 header#heading h2 {
-    font-family: Arial, sans-serif;
+    font-family: 'Titillium Web', sans-serif;
     font-size: 15pt;
     color: #888888;
     padding: 0px;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 /* Formatação de imagens com legenda */
