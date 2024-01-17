@@ -122,3 +122,68 @@ nav#menu a {
 nav#menu a:hover {
     color: white;
 }
+
+section#corpo {
+    display: block;
+    width: 520px;
+    /* background-color: aqua; */
+    float: left;
+    border-right: 1px solid #606060;
+    padding-right: 12px;
+}
+
+table#tabelaspec {
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#tabelaspec td {
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: right;
+    vertical-align: top;
+}
+
+table#tabelaspec td.ce {
+    color: white;
+    background-color: #606060;
+    font-weight: bold;
+}
+
+table#tabelaspec td.cd {
+    background-color: #cecece;
+    text-align: left;
+}
+
+table#tabelaspec caption {
+    color: #888888;
+    font-size: 14pt;
+    font-weight: bolder;
+}
+
+table#tabelaspec caption span {
+    display: block;
+    float: right;
+    color: black;
+    font-size: 10pt;
+    margin-top: 10px;
+}
+
+aside#lateral {
+    display: block;
+    width: 350px;
+    /* background-color: yellowgreen; */
+    float: right;
+}
+
+footer#rodape {
+    /* background: rgb(255, 172, 161); */
+    clear: both;
+    border-top: 1px solid #606060;
+}
+
+footer#rodape p {
+    text-align: center;
+}
