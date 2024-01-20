@@ -251,16 +251,13 @@ footer#rodape p {
 /* Formatação dos vídeos */
 
 video#video-01 {
-    display: block;
     position: relative;
+    max-width: 100%;
+    bottom: 5px;
     left: 1px;
-    width: 500px;
-    bottom: 8px;
 }
 
 video#video-02 {
-    display: block;
     position: relative;
-    width: 350px;
-    bottom: 15px;
+    max-width: 100%;
 }
