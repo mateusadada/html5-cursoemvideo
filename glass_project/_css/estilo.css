@@ -94,7 +94,7 @@ figure.foto-legenda:hover figcaption {
     opacity: 1;
 }
 
-/* Formatação do Menu */
+/* Formatação do menu */
 
 nav#menu {
     display: block;
@@ -246,4 +246,21 @@ footer#rodape {
 
 footer#rodape p {
     text-align: center;
+}
+
+/* Formatação dos vídeos */
+
+video#video-01 {
+    display: block;
+    position: relative;
+    left: 1px;
+    width: 500px;
+    bottom: 8px;
+}
+
+video#video-02 {
+    display: block;
+    position: relative;
+    width: 350px;
+    bottom: 15px;
 }
