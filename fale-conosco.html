@@ -60,14 +60,60 @@
 
                     <fieldset id="endereco"><legend>Endereço do usuário</legend>
                         <p><label for="cLogradouro">Logradouro:</label> <input type="text" name="tLogradouro" id="cLogradouro" size="70" maxlength="70" placeholder="Rua, Av, Trav, ..."></p>
+
                         <p><label for="cNumero">Número:</label> <input type="number" name="tNumero" id="cNumero" min="0" max="99999"></p>
-                        <p><label for="cEstado">Estado:</label> <input type="text" name="tEstado" id="cEstado" size="30" maxlength="30" placeholder="Nome do estado"></p>
-                        <p><label for="cCidade">Cidade:</label> <input type="text" nome="tCidade" id="cCidade" size="30" maxlength="30" placeholder="Nome da cidade"></p>
+
+                        <p><label for="cEstado">Estado:</label>
+                        <select name="tEstado" id="cEstado">
+                            <option>Selecione</option>
+                            <optgroup label="Centro-Oeste">
+                                <option>Distrito Federal</option>
+                                <option>Goiás</option>
+                                <option>Mato Grosso</option>
+                                <option>Mato Grosso do Sul</option>
+                            </optgroup>
+                                <optgroup label="Nordeste">
+                                <option>Alagoas</option>
+                                <option>Bahia</option>
+                                <option>Ceará</option>
+                                <option>Maranhão</option>
+                                <option>Paraíba</option>
+                                <option>Pernambuco</option>
+                                <option>Piauí</option>
+                                <option>Rio Grande do Norte</option>
+                                <option>Sergipe</option>
+                            </optgroup>
+                            <optgroup label="Norte">
+                                <option>Acre</option>
+                                <option>Amapá</option>
+                                <option>Amazonas</option>
+                                <option>Pará</option>
+                                <option>Rondônia</option>
+                                <option>Roraima</option>
+                                <option>Tocantins</option>
+                            </optgroup>
+                            <optgroup label="Sudeste">
+                                <option>Espírito Santo</option>
+                                <option>Minas Gerais</option>
+                                <option>Rio de Janeiro</option>
+                                <option>São Paulo</option>
+                            </optgroup>
+                            <optgroup label="Sul">
+                                <option>Paraná</option>
+                                <option>Rio Grande do Sul</option>
+                                <option>Santa Catarina</option>
+                            </optgroup>
+                        </select></p>
+                        
+                        <p><label for="cCidade">Cidade:</label> <input type="text" nome="tCidade" id="cCidade" size="40" maxlength="40" placeholder="Sua cidade"></p>
                     </fieldset>
 
                     <fieldset id="mensagem"><legend>Mensagem do usuário</legend>
-                        <p><label for="cUrg">Grau de urgência: </label></p>
-                        <p><label for="cMsg">Mensagem: </label></p>
+                        <p><label for="cUrg">Grau de urgência: </label>
+                        Mín<input type="range" name="tUrgencia" id="cUrgencia" min="0" max="10" step="2">Máx</p>
+
+                        <p><label for="cMsg">Mensagem: </label>
+                        <textarea name="tMsg" id="cMsg" cols="45" rows="5" placeholder="Deixe aqui sua mensagem"></textarea></p>
                     </fieldset>
 
                     <fieldset id="pedido"><legend>Quero um Google Glass</legend>
