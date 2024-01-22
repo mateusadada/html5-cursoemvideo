@@ -15,7 +15,6 @@
 
 ## 📜 Table of contents
 
-- [📜 Table of contents](#-table-of-contents)
 - [🚀 Starting](#-starting)
 - [📚 Features](#-features)
 - [📋 Prerequisites](#-prerequisites)
@@ -33,13 +32,21 @@
 Used during the evolution of the website:
 
 - Header, navigation menu, article, aside, and footer
+  
 - Images and videos
+  
 - Links to external resources
+  
 - Defining the form's width and margin
+  
 - Applying styling to input and textarea elements, including a sans-serif font, normal weight, and background color
+  
 - Implementing a hover effect with a changed background color for input and textarea elements
+  
 - Styling the legend element with specified color, font weight, font size, and font family
+  
 - Setting the border color and margin for the fieldset element
+  
 - Adding background images to specific fieldset elements
 
 ## 📋 Prerequisites
