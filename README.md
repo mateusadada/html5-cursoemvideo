@@ -15,12 +15,13 @@
 
 ## 📜 Table of contents
 
-- [Starting](#-starting)
-- [Features](#-features)
-- [Prerequisites](#-prerequisites)
-- [Built with](#%EF%B8%8F-built-with)
-- [Author](#%EF%B8%8F-author)
-- [License](#-license)
+- [📜 Table of contents](#-table-of-contents)
+- [🚀 Starting](#-starting)
+- [📚 Features](#-features)
+- [📋 Prerequisites](#-prerequisites)
+- [🛠️ Built with](#️-built-with)
+- [✒️ Author](#️-author)
+- [📄 License](#-license)
 
 ## 🚀 Starting
 
@@ -31,22 +32,14 @@
 
 Used during the evolution of the website:
 
-- Header, navigation menu, article, aside and footer
-
+- Header, navigation menu, article, aside, and footer
 - Images and videos
-
 - Links to external resources
-
 - Defining the form's width and margin
-
 - Applying styling to input and textarea elements, including a sans-serif font, normal weight, and background color
-
 - Implementing a hover effect with a changed background color for input and textarea elements
-
 - Styling the legend element with specified color, font weight, font size, and font family
-
 - Setting the border color and margin for the fieldset element
-
 - Adding background images to specific fieldset elements
 
 ## 📋 Prerequisites
@@ -67,7 +60,7 @@ You can also see the list of all [collaborators](https://github.com/mateusadada/
 
 ## 📄 License
 
-This project is under license MIT - see the file [LICENSE.md](https://github.com/mateusadada/HTML5-CursoEmVideo/blob/main/LICENSE) for more details.
+This project is under the license MIT. See the [LICENSE.md](https://github.com/mateusadada/HTML5-CursoEmVideo/blob/main/LICENSE) file for more details.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">Developed with ❤️ in Brazil 🇧🇷</p>
