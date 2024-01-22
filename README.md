@@ -15,12 +15,12 @@
 
 ## 📜 Table of contents
 
-- [🚀 Starting](#-starting)
-- [📚 Features](#-features)
-- [📋 Prerequisites](#-prerequisites)
-- [🛠️ Built with](#️-built-with)
-- [✒️ Author](#️-author)
-- [📄 License](#-license)
+- [Starting](#-starting)
+- [Features](#-features)
+- [Prerequisites](#-prerequisites)
+- [Built with](#️-built-with)
+- [Author](#️-author)
+- [License](#-license)
 
 ## 🚀 Starting
 
