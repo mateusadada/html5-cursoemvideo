@@ -69,5 +69,4 @@ You can also see the list of all [collaborators](https://github.com/mateusadada/
 
 This project is under the license MIT. See the [LICENSE.md](https://github.com/mateusadada/HTML5-CursoEmVideo/blob/main/LICENSE) file for more details.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center">Developed with ❤️ in Brazil 🇧🇷</p>
+<hr><p align="center">Developed with ❤️ in Brazil 🇧🇷</p>
