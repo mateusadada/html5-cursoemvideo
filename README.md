@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This PROJECT and README are under development.
+> This README are under development.
 
 <h1 align="center">HTML5 - Curso em Vídeo</h1>
 <div align="center"><i>A website about Google Glass</i><br><br>
