@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Titillium+Web);
 @font-face {
     font-family: 'FonteLogo';
-    src: url("../_fonts/bubblegum-sans-regular.otf");
+    src: url("../fonts/bubblegum-sans-regular.otf");
 }
 
 body {
@@ -43,7 +43,7 @@ header#heading img#icone {
 header#heading {
     border-bottom: 1px solid #606060;
     height: 150px;
-    background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 85px;
+    background: url("../imagens/glass-logo-peq.jpg") no-repeat 0px 85px;
 }
 
 header#heading h1 {
