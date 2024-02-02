@@ -4,7 +4,7 @@
 <a href="https://github.com/mateusadada/html5-cursoemvideo/network/members"><img src="https://img.shields.io/github/forks/mateusadada/html5-cursoemvideo" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/html5-cursoemvideo/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/html5-cursoemvideo" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mateusadada/html5-cursoemvideo/issues"><img src="https://img.shields.io/github/issues/mateusadada/html5-cursoemvideo" alt="Issues Badge"/></a>
-<a href="https://github.com/html5-cursoemvideo"><img src="https://komarev.com/ghpvc/?username=html5-cursoemvideo&color=447ff7&label=views" alt="Views count Badge"/></a>
+<a href="https://github.com/mateusadada/html5-cursoemvideo"><img src="https://komarev.com/ghpvc/?username=html5-cursoemvideo&color=447ff7&label=views" alt="Views count Badge"/></a>
 <br><a href="https://mateusadada.github.io/html5-cursoemvideo" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmateusadada.github.io%2Fhtml5-cursoemvideo&logo=github" /></a>
 <a href="https://github.com/mateusadada/html5-cursoemvideo/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mateusadada/html5-cursoemvideo?color=2b9348"></a>
 <a href="https://github.com/mateusadada/html5-cursoemvideo/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/html5-cursoemvideo?color=2b9348" alt="License Badge"/></a>
